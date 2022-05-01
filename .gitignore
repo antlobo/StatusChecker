@@ -1,6 +1,6 @@
 *.log
 .env
-.db
+*.db
 #Ignores venv
 venv
 .idea
