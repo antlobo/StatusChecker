@@ -1,0 +1,7 @@
+*.log
+.env
+.db
+#Ignores venv
+venv
+.idea
+__pycache__
